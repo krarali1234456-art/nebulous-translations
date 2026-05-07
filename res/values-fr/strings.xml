@@ -1125,7 +1125,7 @@ Ceci est une liste des choses qui sont *Interdit* d'utiliser dans des skins pers
     <string name="BUY_NOW_">ACHETER MAINTENANT!</string>
     <string name="already_purchased">Déjà acheté</string>
     <string name="Halo_Animations">Animation des Halos</string>
-    <string name="Trick_Notifications">Trick Notifications</string>
+    <string name="Trick_Notifications">notifications trompeuses</string>
     <string name="Channel">Chaîne</string>
     <string name="Choose_Text_Size">Choisis la taille du texte</string>
     <string name="LEVEL_COLOR">AFFICHER LES COULEURS DES NIVEAUX</string>

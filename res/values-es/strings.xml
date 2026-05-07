@@ -17,7 +17,7 @@
     <string name="PLAY">"JUGAR"</string>
     <string name="OPTIONS">"OPCIONES"</string>
 
-    <string name="Avatar_">"Skin:"</string>
+    <string name="skin_">"piel:"</string>
     <string name="Name_">"Nombre:"</string>
 
     <string name="Loading___">"Cargando…"</string>
